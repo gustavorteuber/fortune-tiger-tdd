@@ -1,0 +1,18 @@
+[
+  {
+    "index": 1,
+    "timestamp": "2024-11-04T19:11:42.532Z",
+    "transactions": [
+      {
+        "betAmount": 200,
+        "result": [
+          "win"
+        ],
+        "timestamp": "2024-11-04T19:11:42.513Z",
+        "winnings": 0
+      }
+    ],
+    "previousHash": "0",
+    "hash": "759d45da7984ae9884e6c53db56149093077259af06872e2f18d64338676287b"
+  }
+]

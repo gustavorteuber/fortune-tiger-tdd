@@ -1,18 +1,63 @@
 [
   {
     "index": 1,
-    "timestamp": "2024-11-04T19:11:42.532Z",
+    "timestamp": "2024-11-05T07:08:17.990Z",
+    "transactions": [],
+    "previousHash": "0",
+    "hash": "604bd01e7462cf52e674478d15764a60219112f9dae4f4ca0f52e3baeb224669"
+  },
+  {
+    "index": 1,
+    "timestamp": "2024-11-05T07:08:17.998Z",
+    "transactions": [
+      {
+        "betAmount": 100,
+        "result": [
+          "🐅",
+          "💎",
+          "🔔"
+        ],
+        "winnings": 50,
+        "timestamp": "2024-11-05T07:08:17.998Z"
+      }
+    ],
+    "previousHash": "604bd01e7462cf52e674478d15764a60219112f9dae4f4ca0f52e3baeb224669",
+    "hash": "0fefcbd72f2877152da6ef40aefa064a255680e9fc85b8c197993c7aaca82b23"
+  },
+  {
+    "index": 2,
+    "timestamp": "2024-11-05T07:08:17.999Z",
     "transactions": [
       {
         "betAmount": 200,
         "result": [
-          "win"
+          "💎",
+          "💎",
+          "💎"
         ],
-        "timestamp": "2024-11-04T19:11:42.513Z",
-        "winnings": 0
+        "winnings": 100,
+        "timestamp": "2024-11-05T07:08:17.999Z"
       }
     ],
-    "previousHash": "0",
-    "hash": "759d45da7984ae9884e6c53db56149093077259af06872e2f18d64338676287b"
+    "previousHash": "604bd01e7462cf52e674478d15764a60219112f9dae4f4ca0f52e3baeb224669",
+    "hash": "83b136c7aeaa7ee24f678dfc92754ba8f0f73a2bf981efea173a386cea89df92"
+  },
+  {
+    "index": 2,
+    "timestamp": "2024-11-05T07:08:18.000Z",
+    "transactions": [
+      {
+        "betAmount": 300,
+        "result": [
+          "🔔",
+          "🐅",
+          "💎"
+        ],
+        "winnings": 150,
+        "timestamp": "2024-11-05T07:08:17.999Z"
+      }
+    ],
+    "previousHash": "604bd01e7462cf52e674478d15764a60219112f9dae4f4ca0f52e3baeb224669",
+    "hash": "f30c0829be1c97d4d3b387c03284a717565d6dcb96ad516218592ccc06d6fcf3"
   }
 ]
